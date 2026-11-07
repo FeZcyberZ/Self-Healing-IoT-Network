@@ -1,7 +1,6 @@
 # Self-Healing IoT Network: Automated Quarantine, Broker-Mediated Rerouting, and Tamper-Evident Logging
 
 **UFCE8A-30-3 Cyber Applied Project**
-**Myles Samuel Pykes — 22000493**
 **University of the West of England, Bristol**
 
 ---
